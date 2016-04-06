@@ -8,6 +8,8 @@ AccessKeyId/AccessKeySecret，服务于众多的客户端。当客户端（移�
 App Server可以实现更复杂的策略，为不同的客户端提供不同权限的token，隔
 离不同的客户端的存储路径等。
 
+使用参考：https://help.aliyun.com/document_detail/oss/practice/ram_guide_dir/no_user_accout.html
+
 ## Run
 
 ### Install dependencies
