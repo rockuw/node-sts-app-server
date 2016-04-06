@@ -25,7 +25,7 @@ app.get('/', function (req, res) {
     res.json({
       AccessKeyId: result.credentials.AccessKeyId,
       AccessKeySecret: result.credentials.AccessKeySecret,
-      Security: result.credentials.SecurityToken,
+      SecurityToken: result.credentials.SecurityToken,
       Expiration: result.credentials.Expiration
     });
   }).then(function () {
