@@ -12,6 +12,11 @@ App Server可以实现更复杂的策略，为不同的客户端提供不同权�
 
 ## Run
 
+### Checkout code
+
+    git clone https://github.com/rockuw/node-sts-app-server.git
+    cd node-sts-app-server
+
 ### Install dependencies
 
     npm install
